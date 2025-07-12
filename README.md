@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ゆれ (yure0211)
 
-🎵 **Developer & Music Composer** | C# · Kotlin · Java · Unity · .NET · Android Build (Gradle)
+🎵 **Developer & Vocaloid Producer** | C# · Kotlin · Java · Unity · .NET · Android Build (Gradle)
 
 ---
 
@@ -47,7 +47,7 @@
 
 # 👋 こんにちは！ゆれ (yure0211) です
 
-🎵 **開発者 & 作曲家** | C# · Kotlin · Java · Unity · .NET · Android ビルド（Gradle）
+🎵 **開発者 & Vocaloid P** | C# · Kotlin · Java · Unity · .NET · Android ビルド（Gradle）
 
 ---
 
