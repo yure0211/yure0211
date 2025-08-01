@@ -27,7 +27,7 @@
 - Visual Studio  
 - Visual Studio Code  
 - FL Studio  
-- Synthesizer V  
+- Synthesizer V 2 Pro
 - Termius  
 - Android Studio  
 - Unity Editor  
@@ -74,7 +74,7 @@
 - Visual Studio  
 - Visual Studio Code  
 - FL Studio  
-- Synthesizer V  
+- Synthesizer V 2 Pro
 - Termius  
 - Android Studio  
 - Unity Editor  
