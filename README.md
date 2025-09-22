@@ -8,7 +8,7 @@
 🔗 [yure0211.kr](https://yure0211.kr)
 
 ## ▶️ YouTube
-📺 ~~[YouTube Channel]()~~
+📺 [YouTube Channel](http://youtube.com/channel/UCwhAQa1HPo7ooziM0XFQlIw/)
 
 ## 📫 Contact
 ✉️ ~~spoon0727@yure0211.kr~~ disabled 
