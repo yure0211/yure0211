@@ -11,9 +11,9 @@
 📺 [YouTube Channel](http://youtube.com/channel/UCwhAQa1HPo7ooziM0XFQlIw/)
 
 ## 📫 Contact
-✉️ ~~spoon0727@yure0211.kr~~ disabled 
+✉️ spoon0727@yure0211.kr
 
-✉️ spoon0727@gmail.com
+✉️ spoon0727@kenet.co.kr
 
 ---
 
@@ -41,8 +41,8 @@
 
 ## ⚡ Fun Facts
 - I live in Korea  
-- I like BlueArchive, DJMAX, maimai, and Project Sekai  
-- I’m 16 years old  
+- I like BlueArchive, DJMAX, Eternal Return, maimai, and Project Sekai  
+- I’m 17 years old  
 - I have good eyesight, but I wear glasses  
 
 # 👋 こんにちは！ゆれ (yure0211) です
@@ -58,9 +58,9 @@
 📺 [YouTube チャンネル](https://www.youtube.com/channel/UCwhAQa1HPo7ooziM0XFQlIw)
 
 ## 📫 連絡先
-✉️ ~~spoon0727@yure0211.kr~~ disabled 
+✉️ spoon0727@yure0211.kr
 
-✉️ spoon0727@gmail.com
+✉️ spoon0727@kenet.co.kr
 
 ---
 
